@@ -1,0 +1,16 @@
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+python3 ads_build.py job_name:personal_control build_id:12 target:fusa
+
